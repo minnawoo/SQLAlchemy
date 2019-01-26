@@ -1,1 +1,2 @@
-# SQLAlchemy and Flask API assignment from Unit 10 of UofT SCS Data Analytics Bootcamp
+# SQLAlchemy and Flask API
+Assignment from Unit 10 of UofT SCS' Data Analytics Bootcamp
